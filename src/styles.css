@@ -1,0 +1,13 @@
+body {
+  background-color: #241d33;
+}
+
+.App {
+  color: white;
+  font-family: monospace, sans-serif;
+  text-align: center;
+}
+
+button {
+  cursor: pointer;
+}
